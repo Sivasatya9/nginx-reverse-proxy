@@ -1,1 +1,1 @@
-# nginx-reverse-proxy  3 tier application
+# nginx-reverse-proxy 
